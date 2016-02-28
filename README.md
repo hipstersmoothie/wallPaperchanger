@@ -4,6 +4,8 @@ This combo of file works to effortlessly get you a pretty wallpaper every hour. 
 ## Installation
 Just run setup.sh to move the file to the approriate place and load it. It will ask you for you password beause the folder the plist file lives in has speical permissions.
 
+!!! Either make sure the folder is in the documents folder on your computer, or just modify occurences /Documents in the files to match your setup.
+
 ## Usage
 
 After this the script runs every hour, this can be edited in the .plist file. To change the .plist file run
